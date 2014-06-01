@@ -1,0 +1,10 @@
+# Site settings
+title: S. Pavelovich Development
+email: spavelovich@lexipedium.org
+description: "Blog and basic documentation and project development"
+baseurl: ""
+url: "http://sasha.pavelovi.ch"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
